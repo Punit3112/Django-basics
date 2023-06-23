@@ -1,2 +1,1 @@
 # Django-basics
-# Django-basics
